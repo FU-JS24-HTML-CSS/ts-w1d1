@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6", // vilken version ska javascripten vara baserad på
+        "outDir": "./dist" // vilken fil ska våra filer kompileras till när vi kör tsc-kommandot
+    },
+    "include": ["./src"], // vilka filer ska kompileras från ts till js
+    "exclude": [] // vilka filer vill vi specifikt INTE ska kompileras från ts till js
+}

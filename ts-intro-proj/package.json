@@ -1,0 +1,21 @@
+{
+  "name": "ts-intro-proj",
+  "version": "0.0.1",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "intro",
+    "typescript",
+    "node",
+    "npm"
+  ],
+  "author": "Jesper Sjöström",
+  "license": "ISC",
+  "description": "Det här är ett introprojekt till typescript",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "typescript": "^5.7.2"
+  }
+}
